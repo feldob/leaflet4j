@@ -6,12 +6,11 @@
     <parent>
         <groupId>org.apidesign.html.demo</groupId>
         <artifactId>l4jdemo-pom</artifactId>
-        <version>1.0-SNAPSHOT</version>
+        <version>1.0.1-SNAPSHOT</version>
     </parent>
     
     <groupId>org.apidesign.html.demo</groupId>
     <artifactId>l4jdemo-ios</artifactId>
-    <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
     <name>Client for iOS</name>

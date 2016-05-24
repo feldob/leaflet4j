@@ -4,7 +4,7 @@
 
   <groupId>org.apidesign.html.demo</groupId>
   <artifactId>leaflet4j-pom</artifactId>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.0.1-SNAPSHOT</version>
   <packaging>pom</packaging>
 
   <name>Leaflet4j: API and Demo</name>

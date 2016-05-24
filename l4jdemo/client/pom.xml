@@ -6,12 +6,11 @@
   <parent>
       <groupId>org.apidesign.html.demo</groupId>
       <artifactId>l4jdemo-pom</artifactId>
-      <version>1.0-SNAPSHOT</version>
+      <version>1.0.1-SNAPSHOT</version>
   </parent>
 
   <groupId>org.apidesign.html.demo</groupId>
   <artifactId>l4jdemo</artifactId>
-  <version>1.0-SNAPSHOT</version>
   <packaging>bundle</packaging>
 
   <name>Leaflet Demo Client Code</name>
@@ -187,7 +186,7 @@
     <dependency>
       <groupId>com.dukescript.api</groupId>
       <artifactId>leaflet4j</artifactId>
-      <version>1.0-SNAPSHOT</version>
+      <version>1.0.1-SNAPSHOT</version>
       <type>jar</type>
     </dependency>
   </dependencies>
